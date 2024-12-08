@@ -50,6 +50,7 @@ public class TemperatureConverter {
                 System.out.println("Thanks for using the Temperature Converter. Come back another time");
                 break; 
             }
+           scanner.close();
         }
 
         
