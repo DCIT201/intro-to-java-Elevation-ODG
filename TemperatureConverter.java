@@ -5,7 +5,7 @@ public class TemperatureConverter {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Hello and Welcome to your Temperature Converter!");
+        System.out.println("Hello and Welcome to your Temperature-Converter!");
 
         while (true) {
             //menu
